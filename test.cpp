@@ -1,2 +1,6 @@
 //test file
-int main(){}
+#include <iostream>
+int main(){
+    int a;
+    
+}
